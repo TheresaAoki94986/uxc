@@ -45,3 +45,4 @@ description = "A unified CLI for discovering and invoking tools across OpenAPI, 
 # match the style used in the rest of the module
 # drop an unused branch
 # guard against empty input
+# keep defaults in sync with the manifest
